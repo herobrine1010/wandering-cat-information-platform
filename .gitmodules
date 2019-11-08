@@ -1,3 +1,6 @@
 [submodule "wandering-cat-information-platform-user-management"]
 	path = wandering-cat-information-platform-user-management
 	url = https://github.com/Sparkxyf/wandering-cat-information-platform-user-management.git
+[submodule "wandering-cat-information-platform-cat-information"]
+	path = wandering-cat-information-platform-cat-information
+	url = https://github.com/Sparkxyf/wandering-cat-information-platform-cat-information.git
