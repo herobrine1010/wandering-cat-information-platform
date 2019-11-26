@@ -13,3 +13,6 @@
 [submodule "wandering-cat-information-platform-adopt"]
 	path = wandering-cat-information-platform-adopt
 	url = https://github.com/Sparkxyf/wandering-cat-information-platform-adopt.git
+[submodule "wandering-cat-information-platform-message"]
+	path = wandering-cat-information-platform-message
+	url = https://github.com/Sparkxyf/wandering-cat-information-platform-message.git
